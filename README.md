@@ -1,5 +1,6 @@
-# ABOUT TOOL : { ᴀᴄᴄᴇꜱꜱ ᴄᴏᴅᴇ - By Yash 27}
-T-load is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
+# T-LOAD
+
+T-Load is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
 # yᴀꜱʜ 27
 
@@ -22,7 +23,7 @@ pkg install python -y
 pkg install python2 -y
 pkg install git -y
 pip install lolcat
-git clone https://github.com/Yash-27102004/T-Load
+git clone https://github.com/Yash-27102004/T-LOAD-
 cd $HOME
 ls
 cd T-LOAD
